@@ -12,7 +12,7 @@ Supporting Executive Leadership • PMO Support • Project Administration • E
 
 [Portfolio](https://sites.google.com/view/sudheer-ahmed) •
 [LinkedIn](https://www.linkedin.com/in/sudheer-ahmed-khattak) •
-Email: khattahusayheer@gmail.com
+Email: khattaksudheer@gmail.com
 
 </div>
 
