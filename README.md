@@ -211,7 +211,7 @@ Executive Portfolio Projects
 
 📧 Email
 
-khattahusayheer@gmail.com
+khattaksudheer@gmail.com
 
 📱 Saudi Arabia
 
