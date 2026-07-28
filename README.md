@@ -1,101 +1,244 @@
+<div align="center">
+
 # Sudheer Ahmed Khattak
 
-### Executive & Project Administration | Power BI | Advanced Excel | KPI Reporting
+### Project Operations & Business Support Professional
 
-With 12+ years of experience across executive support, project administration, operations, and management reporting, I bring a practical, data-driven approach to supporting business and project leadership.
-
-My expertise combines **Power BI, Advanced Excel, KPI reporting, project coordination, and enterprise systems** to convert operational data into clear dashboards, structured reports, and actionable management insights.
+Supporting Executive Leadership • PMO Support • Project Administration • Executive Reporting
 
 ---
 
-## 📊 Core Expertise
+*"Transforming complex operations into structured, data-driven business solutions."*
 
-- Power BI Dashboard Development
-- Advanced Excel & Management Reporting
-- KPI Reporting & Data Visualization
-- Executive & Project Administration
-- Project Coordination & PMO Support
-- Document Control & Aconex
-- Oracle Fusion
-- Procurement & PR/PO Tracking
-- Workforce, Attendance & Overtime Analysis
-- Fleet & Logistics Reporting
+[Portfolio](https://sites.google.com/view/sudheer-ahmed) •
+[LinkedIn](https://www.linkedin.com/in/sudheer-ahmed-khattak) •
+Email: khattahusayheer@gmail.com
+
+</div>
 
 ---
 
-## 🛠️ Tools & Technologies
+# Executive Profile
 
-**Data & Reporting**  
-Power BI | Advanced Excel | PivotTables | Power Query | DAX | KPI Dashboards
+Welcome to my professional GitHub portfolio.
 
-**Project & Business Systems**  
-Oracle Fusion | Aconex | DocuSign | Microsoft Teams | SharePoint
+This profile showcases real-world business solutions, executive reporting systems, operational dashboards, project administration tools, management trackers, and workflow automation developed throughout my professional career.
 
-**Professional Focus**  
-Executive Support | Project Administration | Operations | Document Control | Management Reporting
+Rather than software development projects, this repository demonstrates how technology, reporting, structured documentation, and business processes can improve operational efficiency and executive decision-making.
 
 ---
 
-## 🚀 Featured Portfolio Projects
+# Professional Summary
 
-### Power BI Projects
+With over **12 years of professional experience**, I have supported executive leadership, project directors, senior management, and cross-functional teams across large-scale infrastructure and business operations.
 
-1. **Executive Management KPI Dashboard**
-2. **Project Administration & Document Control Dashboard**
-3. **Workforce, Attendance & Overtime Analytics Dashboard**
-4. **Procurement, PR-PO & Payment Tracking Dashboard**
-5. **Fleet & Logistics Operations Dashboard**
-
-### Advanced Excel Projects
-
-6. **Advanced Overtime & Attendance Analyzer**
-7. **Project & Document Control Master Tracker**
-8. **Fleet, Fuel & Maintenance Management Tracker**
-9. **Procurement, PR-PO & Invoice Tracker**
-10. **Executive Action, Meeting & KPI Tracker**
-
-> These projects demonstrate practical applications of Power BI, Advanced Excel, KPI reporting, data visualization, and project administration using professionally structured sample datasets.
+My experience combines executive office management with analytical reporting, project coordination, document control, procurement support, operational planning, and business process improvement.
 
 ---
 
-## 🎯 Professional Approach
+# Areas of Expertise
 
-My focus is not simply on creating reports, but on transforming operational information into **clear, accurate, and actionable management insights**.
+✔ Executive Office Management
 
-I aim to build reporting solutions that improve visibility, support decision-making, simplify tracking, and help management quickly understand key operational performance indicators.
+✔ Executive Assistant Support
+
+✔ Board Secretariat
+
+✔ Project Administration
+
+✔ PMO Support
+
+✔ Executive Reporting
+
+✔ KPI Reporting
+
+✔ Business Support
+
+✔ Management Dashboards
+
+✔ Power BI Reporting
+
+✔ Advanced Excel Reporting
+
+✔ Procurement Coordination
+
+✔ Oracle Fusion
+
+✔ Aconex Document Control
+
+✔ DocuSign Workflow
+
+✔ Transportation & Fleet Coordination
+
+✔ Facilities Coordination
+
+✔ Stakeholder Communication
+
+✔ Process Improvement
 
 ---
 
-## 💼 Key Areas of Experience
+# Enterprise Systems
 
-- Executive Office Coordination
-- Project Administration
-- Management Reporting
-- KPI Monitoring
-- Data Analysis & Visualization
-- Workforce & Attendance Reporting
-- Overtime Analysis
-- Procurement & Payment Tracking
-- Document Control
-- Fleet & Logistics Coordination
-- Meeting & Action Tracking
-- Operational Reporting
+| Business Systems | Productivity |
+|-----------------|--------------|
+| Oracle Fusion | Microsoft Excel |
+| Oracle Cloud | Power BI |
+| Aconex | PowerPoint |
+| DocuSign | Word |
+| SharePoint | Outlook |
+| Microsoft Teams | Forms |
 
 ---
 
-## 🔗 Connect With Me
+# Featured Portfolio
 
-🌐 **Professional Portfolio**  
+## Executive Operations Workforce KPI Dashboard
+
+Executive reporting solution for workforce analytics, attendance tracking, and management KPIs.
+
+---
+
+## Executive Project Operations Control Center
+
+Centralized project monitoring dashboard for executive reporting and project oversight.
+
+---
+
+## Procurement Payment Control Center
+
+Procurement tracking system covering PRs, POs, invoices, approvals, and payment status.
+
+---
+
+## Fleet Equipment Operations Dashboard
+
+Fleet utilization, maintenance, equipment tracking, and operational performance reporting.
+
+---
+
+## Fleet Transportation Executive Brief
+
+Transportation reporting for executive decision-making.
+
+---
+
+## Catering Operations Analytics Dashboard
+
+Operational analytics for catering services and workforce support.
+
+---
+
+## Management Action Tracker
+
+Executive action tracking system ensuring accountability and timely follow-up.
+
+---
+
+## Document Control Correspondence Command Center
+
+Document management and correspondence tracking using structured workflows.
+
+---
+
+## Executive Management Presentation
+
+Professional presentation templates developed for executive meetings and leadership reporting.
+
+---
+
+## Project Organizational Structure Chart
+
+Organizational reporting structures supporting project governance.
+
+---
+
+# Industries
+
+Construction
+
+Infrastructure
+
+Project Management
+
+Executive Management
+
+Business Operations
+
+PMO
+
+Administration
+
+Corporate Services
+
+Engineering Projects
+
+---
+
+# Professional Philosophy
+
+Technology should simplify business.
+
+Dashboards should tell a story.
+
+Reports should support decisions.
+
+Processes should create efficiency.
+
+Leadership deserves accurate information at the right time.
+
+---
+
+# Currently Building
+
+Executive Reporting Systems
+
+Power BI Dashboards
+
+Advanced Excel Solutions
+
+Project Administration Templates
+
+PMO Documentation
+
+Business Process Improvements
+
+Executive Portfolio Projects
+
+---
+
+# Connect With Me
+
+📧 Email
+
+khattahusayheer@gmail.com
+
+📱 Saudi Arabia
+
++966 53 508 2404
+
+🌐 Portfolio
+
 https://sites.google.com/view/sudheer-ahmed
 
-💼 **LinkedIn**  
+💼 LinkedIn
+
 https://www.linkedin.com/in/sudheer-ahmed-khattak
-
-📧 **Email**  
-khattaksudheer@gmail.com
-
-📍 **Saudi Arabia**
 
 ---
 
-### Power BI | Advanced Excel | KPI Reporting | Project Administration | Operations
+# Repository Purpose
+
+This GitHub profile is dedicated to sharing practical business solutions developed from real-world professional experience.
+
+Every project demonstrates structured thinking, business analysis, executive reporting, operational management, and process improvement rather than software engineering.
+
+---
+
+<div align="center">
+
+### Thank you for visiting my portfolio.
+
+*"Professional excellence is built through structure, consistency, and continuous improvement."*
+
+</div>
