@@ -4,241 +4,113 @@
 
 ### Project Operations & Business Support Professional
 
-Supporting Executive Leadership • PMO Support • Project Administration • Executive Reporting
+**Executive Office Support • Board Secretariat • PMO Support • Project Administration • Executive Reporting**
 
----
+<br>
 
-*"Transforming complex operations into structured, data-driven business solutions."*
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sites.google.com/view/sudheer-ahmed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudheer-ahmed-khattak)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khattaksudheer@gmail.com)
 
-[Portfolio](https://sites.google.com/view/sudheer-ahmed) •
-[LinkedIn](https://www.linkedin.com/in/sudheer-ahmed-khattak) •
-Email: khattaksudheer@gmail.com
+<br>
+
+> **Transforming complex operations into structured, data-driven business solutions.**
 
 </div>
 
 ---
 
-# Executive Profile
+## 👨‍💼 Executive Profile
 
-Welcome to my professional GitHub portfolio.
+I am a **Project Operations & Business Support Professional** with **12+ years of professional experience** supporting executive leadership, project directors, senior management, and cross-functional teams across Saudi Arabia and Pakistan.
 
-This profile showcases real-world business solutions, executive reporting systems, operational dashboards, project administration tools, management trackers, and workflow automation developed throughout my professional career.
+My background combines executive office support, board secretariat coordination, project administration, PMO-style support, executive reporting, KPI dashboards, document control, procurement follow-up, operational planning, transportation, facilities, and stakeholder coordination.
 
-Rather than software development projects, this repository demonstrates how technology, reporting, structured documentation, and business processes can improve operational efficiency and executive decision-making.
-
----
-
-# Professional Summary
-
-With over **12 years of professional experience**, I have supported executive leadership, project directors, senior management, and cross-functional teams across large-scale infrastructure and business operations.
-
-My experience combines executive office management with analytical reporting, project coordination, document control, procurement support, operational planning, and business process improvement.
+This GitHub profile showcases practical business tools, dashboards, reporting systems, management trackers, workflow solutions, and project administration templates developed from real-world professional experience.
 
 ---
 
-# Areas of Expertise
+## 🎯 Career Focus
 
-✔ Executive Office Management
-
-✔ Executive Assistant Support
-
-✔ Board Secretariat
-
-✔ Project Administration
-
-✔ PMO Support
-
-✔ Executive Reporting
-
-✔ KPI Reporting
-
-✔ Business Support
-
-✔ Management Dashboards
-
-✔ Power BI Reporting
-
-✔ Advanced Excel Reporting
-
-✔ Procurement Coordination
-
-✔ Oracle Fusion
-
-✔ Aconex Document Control
-
-✔ DocuSign Workflow
-
-✔ Transportation & Fleet Coordination
-
-✔ Facilities Coordination
-
-✔ Stakeholder Communication
-
-✔ Process Improvement
+- Executive Assistant
+- Executive Secretary
+- Project Administrator
+- PMO Support
+- Office Coordinator
+- Administrative Coordinator
+- Business Support
+- Executive Reporting
+- Document Control
+- Operations Coordination
+- Facilities Coordination
+- Transportation & Fleet Coordination
 
 ---
 
-# Enterprise Systems
+## 💼 Core Expertise
 
-| Business Systems | Productivity |
-|-----------------|--------------|
-| Oracle Fusion | Microsoft Excel |
-| Oracle Cloud | Power BI |
-| Aconex | PowerPoint |
-| DocuSign | Word |
-| SharePoint | Outlook |
-| Microsoft Teams | Forms |
-
----
-
-# Featured Portfolio
-
-## Executive Operations Workforce KPI Dashboard
-
-Executive reporting solution for workforce analytics, attendance tracking, and management KPIs.
+| Executive & Project Support | Reporting & Operations |
+|---|---|
+| Executive Office Coordination | KPI Reporting |
+| Board Secretariat Support | Power BI Reporting |
+| Project Administration | Advanced Excel Dashboards |
+| PMO Support | Executive Presentations |
+| Meeting & Action Follow-up | Procurement Tracking |
+| Stakeholder Coordination | Payment Follow-up |
+| Document Control | Fleet & Transportation Reporting |
+| Management Reporting | Facilities Coordination |
 
 ---
 
-## Executive Project Operations Control Center
+## 🛠️ Systems & Tools
 
-Centralized project monitoring dashboard for executive reporting and project oversight.
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/Microsoft_Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-Reporting-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/PowerPoint-Executive_Reporting-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle_Fusion-ERP-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Aconex-Document_Control-005B9A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DocuSign-Digital_Approvals-FFCC22?style=for-the-badge&logo=docusign&logoColor=black" />
+<img src="https://img.shields.io/badge/Microsoft_Teams-Collaboration-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" />
+<img src="https://img.shields.io/badge/SharePoint-Collaboration-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" />
 
-## Procurement Payment Control Center
-
-Procurement tracking system covering PRs, POs, invoices, approvals, and payment status.
-
----
-
-## Fleet Equipment Operations Dashboard
-
-Fleet utilization, maintenance, equipment tracking, and operational performance reporting.
-
----
-
-## Fleet Transportation Executive Brief
-
-Transportation reporting for executive decision-making.
+</p>
 
 ---
 
-## Catering Operations Analytics Dashboard
+## 📊 Featured Portfolio Projects
 
-Operational analytics for catering services and workforce support.
-
----
-
-## Management Action Tracker
-
-Executive action tracking system ensuring accountability and timely follow-up.
-
----
-
-## Document Control Correspondence Command Center
-
-Document management and correspondence tracking using structured workflows.
-
----
-
-## Executive Management Presentation
-
-Professional presentation templates developed for executive meetings and leadership reporting.
+| Project | Description |
+|---|---|
+| [Executive Operations Workforce KPI Dashboard](https://github.com/sudheer-ahmed-khattak/Executive-Operations-Workforce-KPI-Dashboard) | Executive workforce analytics dashboard for attendance, overtime, workforce distribution, and KPI reporting. |
+| [Excel Trackers and Management Reports](https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports) | Professional portfolio of Excel dashboards, Power BI reports, management trackers, and project administration solutions. |
+| Executive Project Operations Control Center | Centralized project monitoring and executive reporting solution. |
+| Procurement Payment Control Center | PR, PO, invoice, approval, and payment tracking system. |
+| Fleet Equipment Operations Dashboard | Fleet utilization, maintenance, equipment status, and operational KPI reporting. |
+| Fleet Transportation Executive Brief | Transportation performance and executive decision-support reporting. |
+| Catering Operations Analytics Dashboard | Catering operations analysis, performance monitoring, and workforce support reporting. |
+| Management Action Tracker | Executive action tracking system for accountability and timely follow-up. |
+| Document Control Correspondence Command Center | Structured correspondence, document control, and workflow tracking system. |
+| Executive Management Presentation | Professional presentation templates for leadership meetings and executive reporting. |
+| Project Organizational Structure Chart | Project governance and organizational reporting structure. |
 
 ---
 
-## Project Organizational Structure Chart
+## 🏗️ Professional Experience Highlights
 
-Organizational reporting structures supporting project governance.
-
----
-
-# Industries
-
-Construction
-
-Infrastructure
-
-Project Management
-
-Executive Management
-
-Business Operations
-
-PMO
-
-Administration
-
-Corporate Services
-
-Engineering Projects
+- Supported senior project leadership on a major infrastructure project in Saudi Arabia.
+- Coordinated executive reporting, management meetings, open actions, approvals, and operational follow-up.
+- Prepared KPI reports, dashboards, workforce analysis, and management presentations.
+- Supported Oracle Fusion workflows related to PRs, POs, receiving, and payment follow-up.
+- Managed document and correspondence workflows using Aconex and DocuSign.
+- Coordinated transportation, fleet, facilities, attendance, overtime, and operational reporting.
+- Supported board-level and senior management meetings, minutes, action tracking, and follow-up.
+- Worked across executive administration, operations management, project coordination, and business support functions.
 
 ---
 
-# Professional Philosophy
+## 🌍 Professional Value
 
-Technology should simplify business.
-
-Dashboards should tell a story.
-
-Reports should support decisions.
-
-Processes should create efficiency.
-
-Leadership deserves accurate information at the right time.
-
----
-
-# Currently Building
-
-Executive Reporting Systems
-
-Power BI Dashboards
-
-Advanced Excel Solutions
-
-Project Administration Templates
-
-PMO Documentation
-
-Business Process Improvements
-
-Executive Portfolio Projects
-
----
-
-# Connect With Me
-
-📧 Email
-
-khattaksudheer@gmail.com
-
-📱 Saudi Arabia
-
-+966 53 508 2404
-
-🌐 Portfolio
-
-https://sites.google.com/view/sudheer-ahmed
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/sudheer-ahmed-khattak
-
----
-
-# Repository Purpose
-
-This GitHub profile is dedicated to sharing practical business solutions developed from real-world professional experience.
-
-Every project demonstrates structured thinking, business analysis, executive reporting, operational management, and process improvement rather than software engineering.
-
----
-
-<div align="center">
-
-### Thank you for visiting my portfolio.
-
-*"Professional excellence is built through structure, consistency, and continuous improvement."*
-
-</div>
+```text
+ORGANIZED • ANALYTICAL • PROACTIVE • DETAIL-ORIENTED • RESULTS-FOCUSED
