@@ -32,7 +32,8 @@ This GitHub profile showcases practical business tools, dashboards, reporting sy
 
 ## 🎯 Career Focus
 
-- Executive Assistant
+- Senior Executive Assistant
+- Executive Support Specialist
 - Executive Secretary
 - Project Administrator
 - PMO Support
