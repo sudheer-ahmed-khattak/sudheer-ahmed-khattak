@@ -84,17 +84,17 @@ This GitHub profile showcases practical business tools, dashboards, reporting sy
 ### 1. Executive Operations Workforce KPI Dashboard
 
 <p align="center">
-  <a href="Executive_Operations_Workforce_KPI_Dashboard">
-    <img src="Executive_Operations_Workforce_KPI_Dashboard/Executive_Operations_Workforce_KPI_Dashboard_Preview.png" width="100%">
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Executive_Operations_Workforce_KPI_Dashboard">
+    <img src="https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Operations_Workforce_KPI_Dashboard/Executive_Operations_Workforce_KPI_Dashboard_Preview.png" width="100%">
   </a>
 </p>
 
 Executive workforce dashboard covering attendance, overtime, workforce distribution, departmental performance, and management KPIs.
 
 <p align="center">
-  <a href="Executive_Operations_Workforce_KPI_Dashboard"><strong>🔷 OPEN PROJECT</strong></a>
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Executive_Operations_Workforce_KPI_Dashboard"><strong>🔷 OPEN PROJECT</strong></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="Executive_Operations_Workforce_KPI_Dashboard"><strong>⬇️ VIEW & DOWNLOAD FILES</strong></a>
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Executive_Operations_Workforce_KPI_Dashboard"><strong>⬇️ VIEW & DOWNLOAD FILES</strong></a>
 </p>
 
 ---
@@ -102,17 +102,17 @@ Executive workforce dashboard covering attendance, overtime, workforce distribut
 ### 2. Executive Project Operations Control Center
 
 <p align="center">
-  <a href="Executive_Project_Operations_Control_Center">
-    <img src="Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center_Preview.png" width="100%">
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Executive_Project_Operations_Control_Center">
+    <img src="https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Project_Operations_Control_Center/Executive_Project_Operations_Control_Center_Preview.png" width="100%">
   </a>
 </p>
 
 A centralized project operations dashboard for executive monitoring, operational KPIs, project progress, priorities, and management decision support.
 
 <p align="center">
-  <a href="Executive_Project_Operations_Control_Center"><strong>🔷 OPEN PROJECT</strong></a>
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Executive_Project_Operations_Control_Center"><strong>🔷 OPEN PROJECT</strong></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="Executive_Project_Operations_Control_Center"><strong>⬇️ VIEW & DOWNLOAD FILES</strong></a>
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Executive_Project_Operations_Control_Center"><strong>⬇️ VIEW & DOWNLOAD FILES</strong></a>
 </p>
 
 ---
@@ -120,17 +120,17 @@ A centralized project operations dashboard for executive monitoring, operational
 ### 3. Procurement & Payment Control Center
 
 <p align="center">
-  <a href="Procurement_Payment_Control_Center">
-    <img src="Procurement_Payment_Control_Center/Procurement_Payment_Control_Center_Preview.png" width="100%">
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Procurement_Payment_Control_Center">
+    <img src="https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Procurement_Payment_Control_Center/Procurement_Payment_Control_Center_Preview.png" width="100%">
   </a>
 </p>
 
 A procurement reporting solution for PRs, POs, invoices, approvals, vendors, payment progress, and management follow-up.
 
 <p align="center">
-  <a href="Procurement_Payment_Control_Center"><strong>🔷 OPEN PROJECT</strong></a>
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Procurement_Payment_Control_Center"><strong>🔷 OPEN PROJECT</strong></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="Procurement_Payment_Control_Center"><strong>⬇️ VIEW & DOWNLOAD FILES</strong></a>
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Procurement_Payment_Control_Center"><strong>⬇️ VIEW & DOWNLOAD FILES</strong></a>
 </p>
 
 ---
@@ -138,17 +138,17 @@ A procurement reporting solution for PRs, POs, invoices, approvals, vendors, pay
 ### 4. Fleet Equipment Operations Dashboard
 
 <p align="center">
-  <a href="Fleet_Equipment_Operations_Dashboard">
-    <img src="Fleet_Equipment_Operations_Dashboard/Fleet_Equipment_Operations_Dashboard_Preview.png" width="100%">
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Fleet_Equipment_Operations_Dashboard">
+    <img src="https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Fleet_Equipment_Operations_Dashboard/Fleet_Equipment_Operations_Dashboard_Preview.png" width="100%">
   </a>
 </p>
 
 An operational dashboard for equipment utilization, fleet availability, maintenance monitoring, status reporting, and executive KPIs.
 
 <p align="center">
-  <a href="Fleet_Equipment_Operations_Dashboard"><strong>🔷 OPEN PROJECT</strong></a>
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Fleet_Equipment_Operations_Dashboard"><strong>🔷 OPEN PROJECT</strong></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="Fleet_Equipment_Operations_Dashboard"><strong>⬇️ VIEW & DOWNLOAD FILES</strong></a>
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Fleet_Equipment_Operations_Dashboard"><strong>⬇️ VIEW & DOWNLOAD FILES</strong></a>
 </p>
 
 ---
@@ -156,17 +156,17 @@ An operational dashboard for equipment utilization, fleet availability, maintena
 ### 5. Fleet Transportation Executive Brief
 
 <p align="center">
-  <a href="Fleet_Transportation_Executive_Brief">
-    <img src="Fleet_Transportation_Executive_Brief/Fleet_Transportation_Executive_Brief_Preview.png" width="100%">
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Fleet_Transportation_Executive_Brief">
+    <img src="https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Fleet_Transportation_Executive_Brief/Fleet_Transportation_Executive_Brief.png" width="100%">
   </a>
 </p>
 
 An executive transportation brief for vehicle utilization, fleet movement, trip performance, operational readiness, and management reporting.
 
 <p align="center">
-  <a href="Fleet_Transportation_Executive_Brief"><strong>🔷 OPEN PROJECT</strong></a>
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Fleet_Transportation_Executive_Brief"><strong>🔷 OPEN PROJECT</strong></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="Fleet_Transportation_Executive_Brief"><strong>⬇️ VIEW & DOWNLOAD FILES</strong></a>
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Fleet_Transportation_Executive_Brief"><strong>⬇️ VIEW & DOWNLOAD FILES</strong></a>
 </p>
 
 ---
@@ -174,17 +174,17 @@ An executive transportation brief for vehicle utilization, fleet movement, trip 
 ### 6. Catering Operations Analytics Dashboard
 
 <p align="center">
-  <a href="Catering_Operations_Analytics_Dashboard">
-    <img src="Catering_Operations_Analytics_Dashboard/Catering_Operations_Analytics_Dashboard_Preview.png" width="100%">
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Catering_Operations_Analytics_Dashboard">
+    <img src="https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Catering_Operations_Analytics_Dashboard/Catering_Operations_Analytics_Dashboard_Preview.png" width="100%">
   </a>
 </p>
 
 A catering operations dashboard covering meal distribution, service performance, consumption trends, operational monitoring, and KPI reporting.
 
 <p align="center">
-  <a href="Catering_Operations_Analytics_Dashboard"><strong>🔷 OPEN PROJECT</strong></a>
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Catering_Operations_Analytics_Dashboard"><strong>🔷 OPEN PROJECT</strong></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="Catering_Operations_Analytics_Dashboard"><strong>⬇️ VIEW & DOWNLOAD FILES</strong></a>
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Catering_Operations_Analytics_Dashboard"><strong>⬇️ VIEW & DOWNLOAD FILES</strong></a>
 </p>
 
 ---
@@ -192,17 +192,17 @@ A catering operations dashboard covering meal distribution, service performance,
 ### 7. Management Action Tracker
 
 <p align="center">
-  <a href="Management_Action_Tracker">
-    <img src="Management_Action_Tracker/Management_Action_Tracker_Preview.png" width="100%">
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Management_Action_Tracker">
+    <img src="https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Management_Action_Tracker/Management_Action_Tracker_Preview.png" width="100%">
   </a>
 </p>
 
 A professional tracker for management actions, owners, priorities, deadlines, progress, accountability, and executive follow-up.
 
 <p align="center">
-  <a href="Management_Action_Tracker"><strong>🔷 OPEN PROJECT</strong></a>
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Management_Action_Tracker"><strong>🔷 OPEN PROJECT</strong></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="Management_Action_Tracker"><strong>⬇️ VIEW & DOWNLOAD FILES</strong></a>
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Management_Action_Tracker"><strong>⬇️ VIEW & DOWNLOAD FILES</strong></a>
 </p>
 
 ---
@@ -210,17 +210,17 @@ A professional tracker for management actions, owners, priorities, deadlines, pr
 ### 8. Document Control & Correspondence Command Center
 
 <p align="center">
-  <a href="Document_Control_Correspondence_Command_Center">
-    <img src="Document_Control_Correspondence_Command_Center/Document_Control_Command_Center_Preview.png" width="100%">
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Document_Control_Correspondence_Command_Center">
+    <img src="https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Document_Control_Correspondence_Command_Center/Document_Control_Command_Center_Preview.png" width="100%">
   </a>
 </p>
 
 A document control solution for correspondence, transmittals, approvals, document status, workflow monitoring, and executive reporting.
 
 <p align="center">
-  <a href="Document_Control_Correspondence_Command_Center"><strong>🔷 OPEN PROJECT</strong></a>
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Document_Control_Correspondence_Command_Center"><strong>🔷 OPEN PROJECT</strong></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="Document_Control_Correspondence_Command_Center"><strong>⬇️ VIEW & DOWNLOAD FILES</strong></a>
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Document_Control_Correspondence_Command_Center"><strong>⬇️ VIEW & DOWNLOAD FILES</strong></a>
 </p>
 
 ---
@@ -228,17 +228,17 @@ A document control solution for correspondence, transmittals, approvals, documen
 ### 9. Executive Management Presentation
 
 <p align="center">
-  <a href="Executive_Management_Presentation">
-    <img src="Executive_Management_Presentation/Executive_Management_Board_Support_Preview.png" width="100%">
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Executive_Management_Presentation">
+    <img src="https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Management_Presentation/Executive_Management_Board_Support_Preview.png" width="100%">
   </a>
 </p>
 
 A professional executive presentation demonstrating board support, management reporting, KPI communication, strategic updates, and leadership presentations.
 
 <p align="center">
-  <a href="Executive_Management_Presentation"><strong>🔷 OPEN PROJECT</strong></a>
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Executive_Management_Presentation"><strong>🔷 OPEN PROJECT</strong></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="Executive_Management_Presentation"><strong>⬇️ VIEW & DOWNLOAD FILES</strong></a>
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Executive_Management_Presentation"><strong>⬇️ VIEW & DOWNLOAD FILES</strong></a>
 </p>
 
 ---
@@ -246,17 +246,17 @@ A professional executive presentation demonstrating board support, management re
 ### 10. Project Organizational Structure Chart
 
 <p align="center">
-  <a href="Project_Organizational_Structure_Chart">
-    <img src="Project_Organizational_Structure_Chart/Project_Organizational_Structure_Chart_Preview.png" width="100%">
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Project_Organizational_Structure_Chart">
+    <img src="https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Project_Organizational_Structure_Chart/Project_Organizational_Structure_Chart_Preview.png" width="100%">
   </a>
 </p>
 
 A structured organizational chart presenting project hierarchy, reporting relationships, departments, leadership roles, and governance structure.
 
 <p align="center">
-  <a href="Project_Organizational_Structure_Chart"><strong>🔷 OPEN PROJECT</strong></a>
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Project_Organizational_Structure_Chart"><strong>🔷 OPEN PROJECT</strong></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="Project_Organizational_Structure_Chart"><strong>⬇️ VIEW & DOWNLOAD FILES</strong></a>
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Project_Organizational_Structure_Chart"><strong>⬇️ VIEW & DOWNLOAD FILES</strong></a>
 </p>
 
 ---
