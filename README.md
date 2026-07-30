@@ -47,6 +47,8 @@ This GitHub profile showcases practical business tools, dashboards, reporting sy
 - Transportation & Fleet Coordination
   
 
+---
+
 ## 🛡️ Portfolio Data Disclaimer
 
 All dashboards, reports, financial figures, supplier information, employee records, procurement details, payment data, project documentation, KPIs, charts, and operational datasets presented throughout this portfolio have been independently created solely for demonstration purposes.
