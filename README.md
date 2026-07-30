@@ -63,6 +63,18 @@ This GitHub profile showcases practical business tools, dashboards, reporting sy
 
 ---
 
+> ### ⚠️ Portfolio Data Disclaimer
+>
+> All dashboards, reports, financial figures, supplier details, employee information, company references, project records, payment data, procurement data, and operational datasets shown in this portfolio are independently created for demonstration purposes only.
+>
+> No original company, client, supplier, employee, finance, procurement, payroll, commercial, or confidential project data has been copied, extracted, or used.
+>
+> Any names, values, records, and business scenarios displayed are sample, fictional, anonymized, or recreated solely to demonstrate reporting, dashboard, documentation, and analytical capabilities.
+
+
+
+---
+
 ## 🛠️ Systems & Tools
 
 <p align="center">
@@ -81,16 +93,6 @@ This GitHub profile showcases practical business tools, dashboards, reporting sy
 
 ---
 
-> ### ⚠️ Portfolio Data Disclaimer
->
-> All dashboards, reports, financial figures, supplier details, employee information, company references, project records, payment data, procurement data, and operational datasets shown in this portfolio are independently created for demonstration purposes only.
->
-> No original company, client, supplier, employee, finance, procurement, payroll, commercial, or confidential project data has been copied, extracted, or used.
->
-> Any names, values, records, and business scenarios displayed are sample, fictional, anonymized, or recreated solely to demonstrate reporting, dashboard, documentation, and analytical capabilities.
-
-
----
 
 ## 📊 Featured Portfolio Projects
 
