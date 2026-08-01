@@ -294,6 +294,24 @@ A workforce planning dashboard providing executive visibility into employee rele
 
 ---
 
+### 12. Executive Water Consumption Analytics Dashboard
+
+<p align="center">
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Executive_Water_Consumption_Analytics_Dashboard">
+    <img src="https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Water_Consumption_Analytics_Dashboard/Executive_Water_Consumption_Analytics_Dashboard_Preview.png" width="100%">
+  </a>
+</p>
+
+An interactive Power BI dashboard providing executive visibility into water consumption, transportation operations, contractor performance, supplier analysis, fleet utilization, operational costs, and key management KPIs.
+
+<p align="center">
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Executive_Water_Consumption_Analytics_Dashboard">
+    <strong>📂 OPEN PROJECT & DOWNLOADS</strong>
+  </a>
+</p>
+
+---
+
 ## 🏗️ Professional Experience Highlights
 
 - Supported senior project leadership on a major infrastructure project in Saudi Arabia.
