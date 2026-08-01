@@ -94,7 +94,7 @@ All names, organizations, values, business scenarios, dashboards, reports, and d
 ---
 
 
-## 📊 Featured Portfolio Projects
+## 📊 Featured Executive Portfolio Projects
 
 ### 1. Executive Operations Workforce KPI Dashboard
 
@@ -270,6 +270,24 @@ A structured organizational chart presenting project hierarchy, reporting relati
 
 <p align="center">
   <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Project_Organizational_Structure_Chart">
+    <strong>📂 OPEN PROJECT & DOWNLOADS</strong>
+  </a>
+</p>
+
+---
+
+### 11. Workforce Release Planning & EOS Dashboard
+
+<p align="center">
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Workforce_Release_Planning_EOS_Dashboard">
+    <img src="https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Workforce_Release_Planning_EOS_Dashboard/Workforce_Release_Planning_EOS_Dashboard_Preview.png" width="100%">
+  </a>
+</p>
+
+A workforce planning dashboard providing executive visibility into employee release planning, End-of-Service (EOS) liabilities, departmental workforce distribution, sponsorship exposure, and workforce risk analysis for informed management decision-making.
+
+<p align="center">
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Workforce_Release_Planning_EOS_Dashboard">
     <strong>📂 OPEN PROJECT & DOWNLOADS</strong>
   </a>
 </p>
