@@ -312,6 +312,25 @@ An interactive Power BI dashboard providing executive visibility into water cons
 
 ---
 
+
+### 13. Rental Workforce Operations Dashboard
+
+<p align="center">
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Rental_Workforce_Operations_Dashboard">
+    <img src="https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Rental_Workforce_Operations_Dashboard/Rental_Workforce_Operations_Dashboard_Preview.png" width="100%">
+  </a>
+</p>
+
+A professional Power BI dashboard developed to provide executive visibility into active workforce, employee transfers, workforce releases, department headcount, employment categories, reporting-manager performance, and location-based workforce distribution for operational planning and management decision-making.
+
+<p align="center">
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Rental_Workforce_Operations_Dashboard">
+    <strong>📂 OPEN PROJECT & DOWNLOADS</strong>
+  </a>
+</p>
+
+---
+
 ## 🏗️ Professional Experience Highlights
 
 - Supported senior project leadership on a major infrastructure project in Saudi Arabia.
