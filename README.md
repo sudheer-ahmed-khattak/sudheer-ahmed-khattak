@@ -331,6 +331,42 @@ A professional Power BI dashboard developed to provide executive visibility into
 
 ---
 
+### 14. Friday Workforce Comparison Dashboard
+
+<p align="center">
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Friday_Workforce_Comparison_Dashboard">
+    <img src="https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Friday_Workforce_Comparison_Dashboard/Friday_Workforce_Comparison_Dashboard_Preview.png" width="100%">
+  </a>
+</p>
+
+A professional executive workforce comparison dashboard developed to analyze manpower changes between consecutive Friday workforce reports. It provides management with clear visibility into workforce additions, reductions, departmental performance, location distribution, manpower variance, and operational workforce trends to support informed decision-making.
+
+<p align="center">
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Friday_Workforce_Comparison_Dashboard">
+    <strong>📂 OPEN PROJECT & DOWNLOADS</strong>
+  </a>
+</p>
+
+---
+
+### 15. Executive Business Communication Toolkit
+
+<p align="center">
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Executive_Business_Communication_Toolkit">
+    <img src="https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Business_Communication_Toolkit/Executive_Business_Communication_Toolkit_Preview.png" width="100%">
+  </a>
+</p>
+
+A professional collection of executive business communication templates designed for executive offices, project administration, PMO teams, and corporate environments. The toolkit includes executive correspondence, management communication, meeting invitations, approval requests, HR coordination, project updates, and business email templates following corporate communication standards.
+
+<p align="center">
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Executive_Business_Communication_Toolkit">
+    <strong>📂 OPEN PROJECT & DOWNLOADS</strong>
+  </a>
+</p>
+
+---
+
 ## 🏗️ Professional Experience Highlights
 
 - Supported senior project leadership on a major infrastructure project in Saudi Arabia.
