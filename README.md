@@ -367,6 +367,24 @@ A professional collection of executive business communication templates designed
 
 ---
 
+### 16. Workforce Extension Planning Dashboard
+
+<p align="center">
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Workforce_Extension_Planning_Dashboard">
+    <img src="https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Workforce_Extension_Planning_Dashboard/Workforce_Extension_Planning_Dashboard_Preview.png" width="100%" alt="Workforce Extension Planning Dashboard Preview">
+  </a>
+</p>
+
+A professional executive workforce planning dashboard developed to provide management with clear visibility into employee extension requirements, release schedules, departmental workforce distribution, required work activities, pending management decisions, and project closeout workforce planning.
+
+<p align="center">
+  <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Workforce_Extension_Planning_Dashboard">
+    <strong>📂 OPEN PROJECT & DOWNLOADS</strong>
+  </a>
+</p>
+
+---
+
 ## 🏗️ Professional Experience Highlights
 
 - Supported senior project leadership on a major infrastructure project in Saudi Arabia.
