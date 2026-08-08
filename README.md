@@ -2,9 +2,9 @@
 
 # Sudheer Ahmed Khattak
 
-### Project Operations & Business Support Professional
+### Senior Executive Support & Project Operations Professional
 
-**Executive Office Support • Board Secretariat • PMO Support • Project Administration • Executive Reporting**
+**Executive Office • Board Secretariat • PMO Support • Project Administration • Logistics • Facilities • Transportation • Executive Reporting**
 
 <br>
 
@@ -32,30 +32,18 @@ This GitHub profile showcases practical business tools, dashboards, reporting sy
 
 ## 🎯 Career Focus
 
-- Senior Executive Assistant
-- Executive Support Specialist
-- Executive Secretary
-- Project Administrator
-- PMO Support
-- Office Coordinator
-- Administrative Coordinator
-- Business Support
-- Executive Reporting
-- Document Control
-- Operations Coordination
-- Facilities Coordination
-- Transportation & Fleet Coordination
+<p align="center">
+
+**Senior Executive Assistant** • **Executive Support Specialist** • **Executive Secretary**
+
+**Project Administrator** • **PMO Support** • **Office Coordinator**
+
+**Logistics Coordinator** • **Facilities Coordinator** • **Transportation Coordinator** • **Fleet Coordinator**
+
+**Business Support** • **Executive Reporting** • **Document Control**
+
+</p>
   
-
----
-
-## 🛡️ Portfolio Data Disclaimer
-
-All dashboards, reports, financial figures, supplier information, employee records, procurement details, payment data, project documentation, KPIs, charts, and operational datasets presented throughout this portfolio have been independently created solely for demonstration purposes.
-
-No original company, client, supplier, employee, finance, payroll, procurement, commercial, or confidential project data has been copied, extracted, reproduced, or used in any form.
-
-All names, organizations, values, business scenarios, dashboards, reports, and documentation shown in this portfolio are fictional, anonymized, or recreated to demonstrate my capabilities in executive reporting, dashboard development, project administration, business support, and operational analytics.
 
 ---
 
@@ -90,6 +78,28 @@ All names, organizations, values, business scenarios, dashboards, reports, and d
 
 </p>
 
+
+---
+
+## 📌 Portfolio at a Glance
+
+<div align="center">
+
+🏆 **16 Professional Portfolio Projects**
+
+📊 **Executive Dashboards & Management Reporting**
+
+📈 **Power BI • Advanced Excel • Executive Presentations**
+
+👥 **Executive Office • Board Secretariat • PMO Support**
+
+🚛 **Logistics • Fleet • Transportation • Facilities**
+
+📂 **Document Control • Procurement • Business Communication**
+
+💼 **12+ Years of Professional Experience**
+
+</div>
 
 ---
 
@@ -395,8 +405,23 @@ A professional executive workforce planning dashboard developed to provide manag
 - Coordinated transportation, fleet, facilities, attendance, overtime, and operational reporting.
 - Supported board-level and senior management meetings, minutes, action tracking, and follow-up.
 - Worked across executive administration, operations management, project coordination, and business support functions.
+  
 
 ---
+
+
+## 🛡️ Portfolio Data Disclaimer
+
+All dashboards, reports, financial figures, supplier information, employee records, procurement details, payment data, project documentation, KPIs, charts, and operational datasets presented throughout this portfolio have been independently created solely for demonstration purposes.
+
+No original company, client, supplier, employee, finance, payroll, procurement, commercial, or confidential project data has been copied, extracted, reproduced, or used in any form.
+
+All names, organizations, values, business scenarios, dashboards, reports, and documentation shown in this portfolio are fictional, anonymized, or recreated to demonstrate my capabilities in executive reporting, dashboard development, project administration, business support, and operational analytics.
+
+
+---
+
+
 
 ## 🌍 Professional Value
 
