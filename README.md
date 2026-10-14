@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,55:12304A,100:C9A227&height=210&section=header&text=Sudheer%20Ahmed%20Khattak&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Senior%20Executive%20Assistant%20%7C%20Board%20Secretariat%20%26%20PMO%20%7C%20Operations%2C%20Logistics%20%26%20Facilities&descSize=15&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="banner.png" width="100%" alt="Sudheer Ahmed Khattak" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=20&duration=3500&pause=900&color=C9A227&center=true&vCenter=true&width=720&lines=Executive+Office+%E2%80%A2+Board+Secretariat+%E2%80%A2+PMO+Support;Operations+%E2%80%A2+Logistics+%E2%80%A2+Facilities+%E2%80%A2+Transportation;Excel+%E2%80%A2+Power+BI+%E2%80%A2+SQL+%E2%80%A2+Executive+Reporting;Transforming+complex+operations+into+clear+decisions" alt="Typing SVG" />
 
@@ -247,6 +247,6 @@ No original company, client, supplier, employee, finance, payroll, procurement, 
 ORGANIZED • ANALYTICAL • PROACTIVE • DETAIL-ORIENTED • RESULTS-FOCUSED
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A227,45:12304A,100:0B1F3A&height=110&section=footer" width="100%" />
+<img src="footer.png" width="100%" />
 
 </div>
