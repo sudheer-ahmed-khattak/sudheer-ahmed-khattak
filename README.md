@@ -33,10 +33,9 @@ This GitHub showcases the **dashboards, trackers, reporting systems and template
 
 ## 📈 At a Glance
 
-<div align="center">
+<p align="center"><img src="glance.png" width="100%" alt="11+ Years · JV Board Secretary · 4,000+ Workforce · 25 Projects" /></p>
 
-| 🗓️ **11+ Years** | 🏛️ **JV Board** | 👷 **4,000+** | 📊 **16 Projects** |
-|:---:|:---:|:---:|:---:|
+---:|:---:|:---:|:---:|
 | Professional experience | Board Secretary – LAJV | Workforce supported | Dashboards & trackers |
 
 </div>
@@ -45,15 +44,7 @@ This GitHub showcases the **dashboards, trackers, reporting systems and template
 
 ## 🧭 Career Journey
 
-```text
-2015 ── Founder & Operations Manager ............ Alpha BPO (US Outbound Call Centre)
-2018 ── Branch Coordinator ...................... Premier Agency – Pharma Distribution
-2021 ── Operations Manager ...................... Premier Agency – New Branch
-2024 ── Transportation & Facilities Admin ....... Al-Ayuni Limak (LAJV) – NEOM
-2024 ── Lead Administrative Specialist .......... Al-Ayuni Limak (LAJV) – Logistics
-2025 ── Board & Deputy CEO Secretary ............ Al-Ayuni Limak (LAJV) – Management
-2026 ── Senior Executive Assistant .............. Al-Ayuni Limak (LAJV) – Executive Office
-```
+<p align="center"><img src="journey.png" width="100%" alt="Career journey 2015–2026" /></p>
 
 ---
 
@@ -204,6 +195,65 @@ This GitHub showcases the **dashboards, trackers, reporting systems and template
 <a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Workforce_Extension_Planning_Dashboard"><img src="https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Workforce_Extension_Planning_Dashboard/Workforce_Extension_Planning_Dashboard_Preview.png" width="100%"></a>
 <br><b>16 · Workforce Extension Planning Dashboard</b>
 <br><sub>Extension requirements, release schedules and closeout planning.</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Manpower_Release_Extension_Planner"><img src="https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Manpower_Release_Extension_Planner/Manpower_Release_Extension_Planner_Preview.png" width="100%"></a>
+<br><b>17 · Manpower Release & Extension Planner</b>
+<br><sub>Search &amp; one-click UPDATE macro, release plan and sponsorship view.</sub>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/WIR_Inspection_Tracker"><img src="https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/WIR_Inspection_Tracker/WIR_Inspection_Tracker_Preview.png" width="100%"></a>
+<br><b>18 · WIR Inspection Tracker</b>
+<br><sub>Daily inspection requests, status by discipline and overdue alerts.</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Document_Control_Register"><img src="https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Document_Control_Register/Document_Control_Register_Preview.png" width="100%"></a>
+<br><b>19 · Document Control Register</b>
+<br><sub>Review codes, instant document search and days-in-review tracking.</sub>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/SQL_Project_Reporting"><img src="https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/SQL_Project_Reporting/SQL_Project_Reporting_Preview.png" width="100%"></a>
+<br><b>20 · SQL Project Reporting</b>
+<br><sub>Relational database and 20 SQL management report queries.</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/VIP_Visit_TBM_Ceremony_Plan"><img src="https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/VIP_Visit_TBM_Ceremony_Plan/preview.png" width="100%"></a>
+<br><b>21 · VIP Visit & TBM Breakthrough Ceremony Plan</b>
+<br><sub>Run-of-show, guest protocol, security zones and convoy plan (PowerPoint).</sub>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Executive_Office_Approval_Workflows"><img src="https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Executive_Office_Approval_Workflows/preview.png" width="100%"></a>
+<br><b>22 · Executive Office Approval Workflows</b>
+<br><sub>PR/PO, IPC, contracts and letters via Oracle, DocuSign and Aconex (PowerPoint).</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/EA_Handover_Office_Playbook"><img src="https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/EA_Handover_Office_Playbook/preview.png" width="100%"></a>
+<br><b>23 · EA Handover & Office Playbook</b>
+<br><sub>Daily routine, meetings, filing, travel and handover sign-off (PowerPoint).</sub>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Board_Secretariat_Resolutions_Register"><img src="https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Board_Secretariat_Resolutions_Register/Board_Secretariat_Resolutions_Register_Preview.png" width="100%"></a>
+<br><b>24 · Board Secretariat & Resolutions Register</b>
+<br><sub>Board meetings, resolutions, DocuSign signatures and action follow-up (Excel).</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/tree/main/Visitor_Site_Access_SQL"><img src="https://raw.githubusercontent.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports/main/Visitor_Site_Access_SQL/Visitor_Site_Access_SQL_Preview.png" width="100%"></a>
+<br><b>25 · Visitor & Site Access Management</b>
+<br><sub>Inductions, HSE training, access cards and gate compliance (SQL).</sub>
+</td>
+<td width="50%" align="center" valign="middle">
+<a href="https://github.com/sudheer-ahmed-khattak/Excel-Trackers-and-Management-Reports"><img src="https://img.shields.io/badge/📂_Browse_All_25_Projects-12304A?style=for-the-badge" /></a>
+<br><sub>Every project includes a preview, PDF and download files.</sub>
 </td>
 </tr>
 </table>
