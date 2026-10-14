@@ -35,11 +35,6 @@ This GitHub showcases the **dashboards, trackers, reporting systems and template
 
 <p align="center"><img src="glance.png" width="100%" alt="11+ Years · JV Board Secretary · 4,000+ Workforce · 25 Projects" /></p>
 
----:|:---:|:---:|:---:|
-| Professional experience | Board Secretary – LAJV | Workforce supported | Dashboards & trackers |
-
-</div>
-
 ---
 
 ## 🧭 Career Journey
