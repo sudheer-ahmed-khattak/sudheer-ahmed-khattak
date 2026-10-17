@@ -10,7 +10,7 @@
 [![Notion](https://img.shields.io/badge/Notion_Hub-Explore-000000?style=for-the-badge&logo=notion&logoColor=white)](https://sudheer-ahmed-khattak.notion.site/Sudheer-Ahmed-Khattak-3f93f6340e9c81f88413f3bf135f84aa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudheer-ahmed-khattak)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khattaksudheer@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923315701649)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923315701649) [![Ask Sudheer](https://img.shields.io/badge/ASK_SUDHEER-CHAT_NOW-C9A227?style=for-the-badge&logo=googlechat&logoColor=white&labelColor=555555)](https://sudheer-ahmed-khattak.github.io/Ask/)
 
 <br>
 
